@@ -1,4 +1,3 @@
-```markdown
 # textDiff Function
 
 The `textDiff` function is a serverless API built with Node.js and Express, designed to compare two pieces of text and identify the differences between them. This function leverages the `diff` library to perform a character-by-character comparison, providing a detailed account of added, removed, or unchanged text.
